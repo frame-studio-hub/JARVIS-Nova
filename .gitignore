@@ -1,0 +1,15 @@
+.DS_Store
+.build/
+Backups/
+*.app/
+*.dSYM/
+*.backup*
+*.before-*
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.mobileprovision
+Secrets/
